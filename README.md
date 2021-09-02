@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BenjaminConti
 - 👀 I’m interested in Backend and DB
-- 🌱 I’m currently learning Java, C#, MySQL, Javascript
+- 🌱 I’m currently learning Java, C#, MySQL, Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: contibenjamin@gmail.com
