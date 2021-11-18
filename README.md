@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @BenjaminConti
 - 👀 I’m interested in Backend and DB
 - 🌱 I’m currently learning GO, Java, C#, MySQL, Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: contibenjamin@gmail.com
+- 📫 How to reach me: contibenjamin@gmail.com or benjamin.conti@mercadolibre.com
